@@ -9,4 +9,3 @@ requests
 plotly
 scikit-learn
 pandas
-cv2
