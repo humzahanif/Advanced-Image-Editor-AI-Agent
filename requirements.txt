@@ -3,7 +3,7 @@ google-generativeai
 langchain
 langchain-google-genai
 Pillow
-opencv-python
+opencv-python-headless
 numpy
 requests
 plotly
